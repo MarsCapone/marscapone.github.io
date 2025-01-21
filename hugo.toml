@@ -1,8 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Samson: A simple, personal website'
 
 theme = "re-terminal"
+pagination.pagerSize = 5
 
 [params]
 
@@ -12,11 +13,11 @@ theme = "re-terminal"
 
   showMenuItems = 5
 
-  showLanguageSelector = true
+  showLanguageSelector = false
 
   fullWidthTheme = false
 
-  centerTheme = false
+  centerTheme = true
 
   autoCover = true
 
