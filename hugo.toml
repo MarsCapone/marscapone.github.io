@@ -23,14 +23,14 @@ pagination.pagerSize = 5
 
   showLastUpdated = true
 
-  Toc = true
+  Toc = false
 
   readingTime = true
 
 [languages]
   [languages.en.params]
     languageName = "English"
-    title = "Samson Danziger"
+    title = "Samson Ventura-Danziger"
     subtitle = "A simple, personal website."
     owner = "samson@danziger.uk"
     keywords = ""
@@ -46,7 +46,7 @@ pagination.pagerSize = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "Samson Danziger"
+      logoText = "Samson Ventura-Danziger"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -62,3 +62,7 @@ pagination.pagerSize = 5
       #  identifier = "showcase"
       #  name = "Showcase"
       #  url = "/showcase"
+
+[module]
+  [[module.imports]]
+    path = "github.com/KKKZOZ/hugo-admonitions"

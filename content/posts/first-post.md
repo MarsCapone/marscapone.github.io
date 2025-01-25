@@ -1,16 +1,15 @@
 +++
 title = "First Post"
 date = "2025-01-21T02:35:10Z"
-author = ""
+author = "Samson"
 cover = ""
 coverCaption = ""
-tags = ["new-year"]
+tags = ["new-year", "meta"]
 keywords = []
 description = ""
 showFullContent = false
 readingTime = false
 hideComments = false
-color = "" #color from the theme settings
 draft = false
 +++
 
