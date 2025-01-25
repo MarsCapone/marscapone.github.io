@@ -8,23 +8,14 @@ pagination.pagerSize = 5
 [params]
 
   contentTypeName = "posts"
-
   themeColor = "green"
-
   showMenuItems = 5
-
   showLanguageSelector = false
-
   fullWidthTheme = false
-
   centerTheme = true
-
   autoCover = true
-
   showLastUpdated = true
-
   Toc = false
-
   readingTime = true
 
 [languages]
