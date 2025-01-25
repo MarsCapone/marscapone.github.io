@@ -54,6 +54,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: Europe/London
         run: |
+          hugo mod get -u &&
           hugo \
             --gc \
             --minify
